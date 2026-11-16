@@ -3,10 +3,10 @@
 // rete. Una versione nuova si scarica mentre l'app è aperta e si vede
 // alla prossima apertura. Non manda niente a nessuno: risponde solo alle
 // richieste dei file del sito.
-const VERSIONE = "fracta-4cd7899e6c5b";
+const VERSIONE = "fracta-1b5b83bf9776";
 const FILE = [
   "./",
-  "./assets/index-VBXi4ydG.js",
+  "./assets/index-CaCCre_J.js",
   "./icona-180.png",
   "./icona-192.png",
   "./icona-512.png",
